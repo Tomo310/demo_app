@@ -16,7 +16,11 @@ gem 'turbolinks', '1.1.1'
 gem 'jbuilder', '1.0.2'
 
 group :doc do
+<<<<<<< HEAD
 	gem 'sdoc', '~> 0.3.20', require: false
+=======
+	gem 'sdoc', '0.3.20', require: false
+>>>>>>> origin/master
 end
 
 group :production do
